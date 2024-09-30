@@ -1,16 +1,15 @@
-
+## 📄 Portfolio - Abhay
 Welcome to my personal portfolio! I'm Abhay, a web developer with a strong enthusiasm for back-end development, particularly in APIs and microservices. This portfolio showcases my projects and skills while providing a glimpse into my passion for coding.
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio: 
+Check out the live version of my portfolio: https://abhayjasrotia.github.io/Portfolio-Abhay/
 
 ## 📂 Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
